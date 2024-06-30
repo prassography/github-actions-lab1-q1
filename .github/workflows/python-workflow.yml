@@ -1,7 +1,9 @@
 name: CI
 
 on:
-  push:  null
+  workfloworkflow_dispatch:
+    
+  #push:  null
 
 jobs:
   build:
